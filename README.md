@@ -1,3 +1,3 @@
 # odin-recipes
 
-I am building my first simp recipe website using html and css
+my first recipe website using html and css
